@@ -1,7 +1,7 @@
 # Facial Recognition, Enhancement, and Reconstruction from CCTV Footage
 
 ## Overview
-This project addresses a critical challenge in security and forensic investigations: reconstructing human faces from low-quality CCTV footage. Developed by **Apoorv Goyal**, **Pranay Arora**, **Mudit Gandhi**, and **Yaagik Goel**, this advanced Machine Learning solution leverages state-of-the-art techniques in image super-resolution, computer vision, and 3D facial reconstruction to enhance and rebuild faces from blurry or distorted images captured by CCTV cameras.
+This project addresses a critical challenge in security and forensic investigations: reconstructing human faces from low-quality CCTV footage. Developed by **Shivam Gupta**, this advanced Machine Learning solution leverages state-of-the-art techniques in image super-resolution, computer vision, and 3D facial reconstruction to enhance and rebuild faces from blurry or distorted images captured by CCTV cameras.
 
 ## Key Features
 - **RealESRGAN & GFPGAN**: Utilizes advanced super-resolution techniques to improve the quality of low-resolution images.
